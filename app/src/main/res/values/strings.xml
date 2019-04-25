@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TexttoSpeech</string>
+    <string name="texto">Introduce un texto</string>
+    <string name="tono">Tono</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="talk">¡HABLA!</string>
+</resources>
